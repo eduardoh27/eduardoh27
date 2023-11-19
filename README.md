@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Computer Vision, AI and Quantum Computing**
 
-- 📫 How to reach me **ej.herreraa@uniandes.edu.co**
+- 📫 How to reach me:  **ej.herreraa@uniandes.edu.co**
 
-Connect with me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-herrera-alba/)
+- Connect with me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-herrera-alba/)
 
 📫 Reach me at: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-herrera-alba/)
 [![Email](https://img.shields.io/badge/-Website-blue?style=flat&logo=firefox&logoColor=white)](ej.herreraa@uniandes.edu.co)
