@@ -13,6 +13,9 @@
 <a href="https://linkedin.com/in/eduardo-herrera-alba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-herrera-alba" height="30" width="40" /></a>
 </p>
 
+📫 Reach me at: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-herrera-alba/)
+[![Email](https://img.shields.io/badge/-Website-blue?style=flat&logo=firefox&logoColor=white)](ej.herreraa@uniandes.edu.co)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoh27&show_icons=true&locale=en&layout=compact" alt="eduardoh27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoh27&" alt="eduardoh27" /></p>
