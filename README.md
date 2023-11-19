@@ -8,10 +8,7 @@
 
 - 📫 How to reach me **ej.herreraa@uniandes.edu.co**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eduardo-herrera-alba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-herrera-alba" height="30" width="40" /></a>
-</p>
+Connect with me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-herrera-alba/)
 
 📫 Reach me at: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-herrera-alba/)
 [![Email](https://img.shields.io/badge/-Website-blue?style=flat&logo=firefox&logoColor=white)](ej.herreraa@uniandes.edu.co)
