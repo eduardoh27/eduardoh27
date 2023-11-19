@@ -15,7 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoh27&show_icons=true&locale=en&layout=compact" alt="eduardoh27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoh27&show_icons=true&locale=en" alt="eduardoh27" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoh27&" alt="eduardoh27" /></p>
 
