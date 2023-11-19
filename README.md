@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Eduardo
 
-<h3 align="center">3rd year Computing & Systems Engineering and Physics student at Universidad de los Andes in Bogotá,Colombia</h3>
+<h3 align="left">3rd year Systems & Computing Engineering and Physics student at Universidad de los Andes in Bogotá, Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoh27&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoh27" /> </p>
 
