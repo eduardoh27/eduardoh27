@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoh27&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoh27" /> </p>
 
-- 🌱 I’m currently learning **Quantum Computing, Computer Vision, NLP and AI**
+- 🌱 I’m currently learning **AI, Quantum Computing, Computer Vision and NLP**
 
 - 📫 How to reach me:  **ej.herreraa@uniandes.edu.co**
 
